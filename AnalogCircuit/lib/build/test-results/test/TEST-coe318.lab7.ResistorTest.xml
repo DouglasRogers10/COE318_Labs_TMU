@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="coe318.lab7.ResistorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-06-19T13:41:29.296Z" hostname="LAPTOP-78L75IIF" time="0.033">
+  <properties/>
+  <testcase name="testToSpice()" classname="coe318.lab7.ResistorTest" time="0.028"/>
+  <testcase name="testIsDuplicateOfTrue()" classname="coe318.lab7.ResistorTest" time="0.0"/>
+  <testcase name="testIsDuplicateOfFalse()" classname="coe318.lab7.ResistorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
